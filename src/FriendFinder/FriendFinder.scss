@@ -1,0 +1,21 @@
+.friend-finder {
+    width: 100%;
+    height: auto;
+    min-height: 50vh;
+    background-color: #d1d3e6;
+    display: inline-block;
+    justify-content: left;
+    text-align: left;
+    flex-direction: column;
+    padding: 35px 35px;
+    .btn {
+        text-align: center;
+        justify-content: center;
+        color: #8d909b;
+        font-size: 24px;
+        width: 200px;
+        height: 40px;
+        display: flex;
+        margin: 0 auto;
+        }
+}
